@@ -1,0 +1,6 @@
+{
+  "name": "Java Collections Portal",
+  "description": "An interactive learning portal for the Java Collections Framework featuring labs, quizzes, and a code playground.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
